@@ -58,6 +58,7 @@ ul li{
 .logo{
 	text-align: center;
 	margin-top: 30px;
+	overflow-x: hidden;
 }
 
 
@@ -611,13 +612,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 }
 
 .panorama{
-	width: 94%;
+	width: 100%;
 	margin: 130px auto;
 	box-shadow: 6px 20px 20px #000000c7;
 }
 
 .panorama1{
-	width: 94%;
+	width: 100%;
 	margin: 60px auto;
 	box-shadow: 6px 20px 20px #000000c7;
 }
